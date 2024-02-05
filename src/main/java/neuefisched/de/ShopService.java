@@ -1,2 +1,4 @@
-package neuefisched.de;public class ShopService {
+package neuefisched.de;
+
+public class ShopService {
 }

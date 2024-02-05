@@ -1,2 +1,7 @@
-package neuefisched.de;public record Product() {
+package neuefisched.de;
+
+public record Product(String id, String name) {
+
+
+
 }
